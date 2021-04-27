@@ -29,3 +29,10 @@ $ flutter run -d edge
 :space_invader:
 :space_invader:
 :space_invader:
+
+
+#addicional informacion
+
+1.run flutter upgrade 
+2.run flutter config --enable-web
+3.run flutter devices 
