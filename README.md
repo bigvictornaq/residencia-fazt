@@ -16,7 +16,7 @@ $ dart bin/main.dart
 1. acceder a la carpeta frontend usando comando cd in la terminal o cmdd
 2. Ingresa `flutter run` en la terminal para inicializar el  projecto in tu emuladot.
 
-## Parte Verion web
+## Parte Version web
 
 1. Acceder en la carpeta frontend usando el comando 'cd'
 2. ingresar `flutter run -d edge` ojo puedes utlizar chrome
