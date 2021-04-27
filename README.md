@@ -19,11 +19,10 @@ $ dart bin/main.dart
 ## Parte Verion web
 
 1. Acceder en la carpeta frontend usando el comando 'cd'
-2. ingresar `flutter build web`
+2. ingresar `flutter run -d edge` ojo puedes utlizar chrome
 
 ```bash
-$ cd build/web
-$ serve
+$ flutter run -d edge
 ```
 
 :space_invader:

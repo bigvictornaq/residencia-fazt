@@ -2,7 +2,8 @@ import 'package:dio/dio.dart';
 import 'package:frontend/models/contact.dart';
 
 class ContactsApi {
-  final _dio = Dio(BaseOptions(baseUrl: 'http://10.0.2.2:8081/'));
+  //10.0.2.2
+  final _dio = Dio(BaseOptions(baseUrl: 'http://localhost:8081/'));
 
   Future<List<Contact>> getContacts() async {
     final response = await _dio.get('');
